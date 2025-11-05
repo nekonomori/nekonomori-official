@@ -1,2 +1,8 @@
-# nekonomori-official
-行政・助成金向けLP｜抑止型安全管理システム（株式会社ねこの杜）
+# Nekonomori Official (Next.js + Tailwind)
+
+## Setup
+```bash
+npm install
+npm run dev
+```
+Deploy on Vercel by importing this repo. No env vars required.
